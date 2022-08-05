@@ -1,7 +1,7 @@
 :root {
     --background-primary: linear-gradient(180deg, rgba(23,0,5,1) 10%, rgba(0,0,0,1) 65%);
     --background-secondary: linear-gradient(180deg, rgba(23,0,5,1) 10%, rgba(0,0,0,1) 65%);
-    --font-primary: 'Rajdhani';
+    --font-primary: 'Jura'; 
     --primary-text-color: lightgray;
 
     --primary: 23, 13, 22;
